@@ -23,7 +23,7 @@ Si la opción no le aparece puede ejecutar el siguiente comando en terminal:
 
 Coloque su contraseña de administrador y al volver a entrar al mismo apartado le debe aparecer la opción disponible para elegir.
 
-Abra su terminal y coloque el siguiente comando:
+Si el archivo aparece como archivo de texto únicamente y no como ejecutable abra su terminal y coloque el siguiente comando:
 
 ```chmod +x [ruta del archivo]```
 
