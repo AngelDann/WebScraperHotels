@@ -27,6 +27,9 @@ Si el archivo aparece como archivo de texto únicamente y no como ejecutable abr
 
 ```chmod +x [ruta del archivo]```
 
+Por ejemplo: ```chmod +x /Users/danlo/Documents/WebScraperHotels```
+La ruta depernderá de donde tenga el archivo y seguerese re respetar los espacions del comando.
+
 Para colocar la ruta del archivo descomprimido puede abrirlo en Finder y arrastrarlo a la terminal, una vez hecho presione enter y el archivo se tendrá que ver como el siguiente:
 
 ![archivo_ruta](https://github.com/AngelDann/WebScraperHotels/assets/135011459/ca7e996a-fb25-4276-a4e7-b67fb6d4331f)
