@@ -1,6 +1,25 @@
 # WebScraperHotels
 Repositorio con la aplicación WebScraperHotels en versiones para Windows y MacOs
 
+Este programa está hecho para obtener la información del nombre, dirección, número de teléfono, URL, SSL, rating y precios de los hoteles que el usuario busque haciendo web scarping a la página de Google Hotels.
+![image](https://github.com/user-attachments/assets/98a38da5-c9c2-42f0-a9c0-f9655b7920bb)
+
+La aplicación puede buscar a aprtir de una lista de nombres y links o puede hacerlo al hacer una busqeuda con el nombre o usando el link.
+
+* Haciendo búsqueda con el link
+![image](https://github.com/user-attachments/assets/1aea7ffc-ce8d-48f7-9eab-768780532c49)
+
+* Haciendo búsqueda con una lista de hoteles y links
+
+![image](https://github.com/user-attachments/assets/6a0a6f71-42d4-4d44-b765-646b657fda95)
+
+Finalmente el usuario selecciona si quiere guardar el archivoe wn csv o en excel.
+![image](https://github.com/user-attachments/assets/4e6df020-146d-4f12-9ca1-392999e9f982)
+
+![image](https://github.com/user-attachments/assets/a1ff4360-d7df-4174-b6bd-e7c378e99559)
+
+---
+
 [Descargar archivo comprimido con la aplicación para Windows](https://drive.google.com/file/d/1DI4-eTEVmrAR7AI3Sjul_zvBnvCpzfJk/view?usp=sharing)
 
 
